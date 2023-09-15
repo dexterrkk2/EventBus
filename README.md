@@ -1,2 +1,2 @@
 # EventBus
-Play https://github.com/dexterrkk2/EventBusWebGL
+Play https://dexterrkk2.github.io/EventBusWebGL/
